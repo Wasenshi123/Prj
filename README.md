@@ -11,6 +11,9 @@ This project is intended to demonstrate how you can communicate between any serv
 ## How to run server:
 
 You need to have php installed in your machine. (please visit [PHP official website](http://www.php.net/))
+And MySql database server
+
+You can install [xampp](https://www.apachefriends.org/index.html) instead which is a framework that contains all the mandatory requirement to run this project.
 
 Without actually deploying the web server, you can use command line to run the back-end by using PHP library called 'artisan'. (included with the project already)
 
