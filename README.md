@@ -2,7 +2,7 @@
 
 This project is a Unity Game App, about Thai history.
 
-It contains 2 main parts : Unity client, and Back-end server (web server built with PHP)
+It contains 2 main parts : - Unity client, and - Back-end server (web server built with PHP)
 
 This project is intended to demonstrate how you can communicate between any server and unity using RESTapi technology.
 
@@ -12,7 +12,7 @@ You need to have php installed in your machine. (please visit [PHP official webs
 
 Without actually deploying the web server, you can use command line to run the back-end by using PHP library called 'artisan'. (included with the project already)
 
-1. open cmd (commandline) in the back-end project's root folder. (The root folder is the parent folder of the app folder)
+1. open cmd (commandline) in the back-end project's root folder. (The root folder is the parent folder of the 'app' folder)
 2. then, run this command : `php artisan serve`
 
 ## The Unity project:
