@@ -31,3 +31,7 @@ you can register your account by running the server then go to browser and open 
 # **Status**
 
 Still in progress
+
+- can login
+- can register
+- can show history timeline
