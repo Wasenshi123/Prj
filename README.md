@@ -26,7 +26,7 @@ There is a .scene file called "Home", you can start with that to explore this ap
 
 **_This project need user account to log in_**
 
-you can register your account after you run the server by open the webpage in browser : localhost:8000 (this is default url, you should see the actual url when you run the command to start the server)
+you can register your account by running the server then go to browser and open the webpage : localhost:8000 (this is default url, you should see the actual url when you run the command to start the server)
 
 # **Status**
 
