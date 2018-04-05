@@ -26,6 +26,8 @@ php artisan serve
 
 ## The Unity project:
 
+Open the project in Unity3D program
+
 There is a .scene file called "Home", you can start with that to explore this app.
 
 **_This project need user account to log in_**
