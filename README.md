@@ -14,7 +14,7 @@ You need to have php installed in your machine. (please visit [PHP official webs
 
 The other requirement is you need a database server. (preferrably [MySql](https://dev.mysql.com/downloads/mysql/) Server)
 
-You can install [xampp](https://www.apachefriends.org/index.html) instead which is a framework that contains all the mandatory requirement to run this project.
+You can install [xampp](https://www.apachefriends.org/index.html) instead which is a framework that contains all the mandatory requirements to run this project.
 
 Without actually deploying the web server, you can use command line to run the back-end by using PHP library called 'artisan'. (included with the project already)
 
