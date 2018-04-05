@@ -21,3 +21,5 @@ Without actually deploying the web server, you can use command line to run the b
 
 There is a .scene file called "Home", you can start with that to explore this app.
 
+**_This project need user account to log in_**
+you can register your account after you run the server by open the webpage in browser : localhost:8000 (this is default url, you should see the actual url when you run the command to start the server)
