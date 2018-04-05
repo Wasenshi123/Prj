@@ -1,4 +1,4 @@
-#**Thai History**
+#**Thai History**#
 
 This project is a Unity Game App, about Thai history.
 
@@ -15,7 +15,7 @@ Without actually deploying the web server, you can use command line to run the b
 1. open cmd (commandline) in the back-end project's root folder. (The root folder is the parent folder of the app folder)
 2. then, run this command : `php artisan serve`
 
-##The Unity project:
+##The Unity project:##
 
 There is a .scene file called "Home", you can start with that to explore this app.
 
