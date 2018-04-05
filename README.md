@@ -3,7 +3,7 @@
 This project is a Unity Game App, about Thai history.
 
 It contains 2 main parts :
-- Unity client, and
+- Unity client
 - Back-end server (web server built with PHP)
 
 This project is intended to demonstrate how you can communicate between any server and unity using RESTapi technology.
