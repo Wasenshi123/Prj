@@ -35,9 +35,8 @@ There is a .Unity scene file called "Home.Unity", you can start with that to exp
 you can register your account by running the server then go to browser and open the webpage : localhost:8000 (this is default url, you should see the actual url when you run the command to start the server)
 
 # **Status**
-
-Still in progress
-
 - can login
 - can register
 - can show history timeline
+
+*The project has been suspended and doesn't have all the features it is intended to. Still suitable for showcasing and for educational.
